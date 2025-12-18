@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "generated_at": "2025-12-18T17:15:51Z",
+  "items": [
+    {
+      "id": "eden-112-notifications-system",
+      "type": "update",
+      "created_at": "2025-12-18T17:15:51Z",
+      "title": {
+        "en": "Notifications system added",
+        "pt-br": "Sistema de notificações adicionado"
+      },
+      "body": {
+        "en": "Click to open the release/download page.",
+        "pt-br": "Clique para abrir a página de release/download."
+      },
+      "link": "https://github.com/UltimateRemaster/Final-Fantasy-08/releases",
+      "image": null,
+      "pinned": false,
+      "expires_at": null
+    },
+    {
+      "id": "promo-4k-video-pack",
+      "type": "promo",
+      "created_at": "2025-12-11T17:15:51Z",
+      "title": {
+        "en": "Try the 4K Video Pack",
+        "pt-br": "Conheça o 4K Video Pack"
+      },
+      "body": {
+        "en": "Pinned announcement example.",
+        "pt-br": "Exemplo de anúncio fixado."
+      },
+      "link": "https://www.nexusmods.com/",
+      "image": null,
+      "pinned": true,
+      "expires_at": null
+    }
+  ]
+}
