@@ -16,7 +16,7 @@
       },
       "body": {
         "de":"Beispiel für eine angepinnte Ankündigung.",
-        "en": "Pinned announcement example.",
+        "en":"Pinned announcement example.",
         "es":"Ejemplo de anuncio fijado.",
         "fr":"Exemple d'annonce épinglée.",
         "it":"Esempio di annuncio appuntato.",
@@ -32,16 +32,16 @@
       "type": "promo",
       "created_at": "2025-12-11T17:15:51Z",
       "title": {
-        "de":"Probieren Sie das 4K-Videopaket aus",
-        "en":"Try the 4K Video Pack",
-        "es":"Prueba el paquete de vídeo 4K",
-        "fr":"Essayez le pack vidéo 4K",
-        "it":"Prova il pacchetto video 4K",
-        "pt-br": "Conheça o 4K Video Pack"
+        "de":"Probieren Sie das 2K-Videopaket aus",
+        "en":"Try the 2K Video Pack",
+        "es":"Prueba el paquete de vídeo 2K",
+        "fr":"Essayez le pack vidéo 2K",
+        "it":"Prova il pacchetto video 2K",
+        "pt-br": "Conheça o 2K Video Pack"
       },
       "body": {
         "de":"Beispiel für eine angepinnte Ankündigung.",
-        "en": "Pinned announcement example.",
+        "en":"Pinned announcement example.",
         "es":"Ejemplo de anuncio fijado.",
         "fr":"Exemple d'annonce épinglée.",
         "it":"Esempio di annuncio appuntato.",
@@ -60,11 +60,19 @@
       "type": "update",
       "created_at": "2025-12-18T17:15:51Z",
       "title": {
-        "en": "Notifications system added",
+        "de":"Benachrichtigungssystem hinzugefügt",
+        "en":"Notifications system added", 
+        "es":"Se agregó un sistema de notificaciones",
+        "fr":"Système de notifications ajouté",
+        "it":"Aggiunto il sistema di notifiche",
         "pt-br": "Sistema de notificações adicionado"
       },
       "body": {
-        "en": "Click to open the release/download page.",
+        "de":"Klicken Sie hier, um die Release-/Downloadseite zu öffnen.",
+        "en":"Click to open the release/download page.",
+        "es":"Haga clic para abrir la página de lanzamiento/descarga.",
+        "fr":"Cliquez pour ouvrir la page de téléchargement/de publication.",
+        "it":"Fare clic per aprire la pagina di rilascio/download.",
         "pt-br": "Clique para abrir a página de release/download."
       },
       "link": "https://github.com/UltimateRemaster/Final-Fantasy-08/releases",
@@ -77,11 +85,19 @@
       "type": "update",
       "created_at": "2025-12-18T17:15:51Z",
       "title": {
-        "en": "Notifications system added",
+        "de":"Benachrichtigungssystem hinzugefügt",
+        "en": "Notifications system added", 
+        "es":"Se agregó un sistema de notificaciones",
+        "fr":"Système de notifications ajouté",
+        "it":"Aggiunto il sistema di notifiche",
         "pt-br": "Sistema de notificações adicionado"
       },
       "body": {
-        "en": "Click to open the release/download page.",
+        "de":"Klicken Sie hier, um die Release-/Downloadseite zu öffnen.",
+        "en":"Click to open the release/download page.",
+        "es":"Haga clic para abrir la página de lanzamiento/descarga.",
+        "fr":"Cliquez pour ouvrir la page de téléchargement/de publication.",
+        "it":"Fare clic per aprire la pagina di rilascio/download.",
         "pt-br": "Clique para abrir a página de release/download."
       },
       "link": "https://github.com/UltimateRemaster/Final-Fantasy-08/releases",
@@ -94,11 +110,19 @@
       "type": "update",
       "created_at": "2025-12-18T17:15:51Z",
       "title": {
-        "en": "Notifications system added",
+        "de":"Benachrichtigungssystem hinzugefügt",
+        "en": "Notifications system added", 
+        "es":"Se agregó un sistema de notificaciones",
+        "fr":"Système de notifications ajouté",
+        "it":"Aggiunto il sistema di notifiche",
         "pt-br": "Sistema de notificações adicionado"
       },
       "body": {
-        "en": "Click to open the release/download page.",
+        "de":"Klicken Sie hier, um die Release-/Downloadseite zu öffnen.",
+        "en":"Click to open the release/download page.",
+        "es":"Haga clic para abrir la página de lanzamiento/descarga.",
+        "fr":"Cliquez pour ouvrir la page de téléchargement/de publication.",
+        "it":"Fare clic per aprire la pagina di rilascio/download.",
         "pt-br": "Clique para abrir a página de release/download."
       },
       "link": "https://github.com/UltimateRemaster/Final-Fantasy-08/releases",
@@ -111,11 +135,19 @@
       "type": "update",
       "created_at": "2025-12-18T17:15:51Z",
       "title": {
-        "en": "Notifications system added",
+        "de":"Benachrichtigungssystem hinzugefügt",
+        "en": "Notifications system added", 
+        "es":"Se agregó un sistema de notificaciones",
+        "fr":"Système de notifications ajouté",
+        "it":"Aggiunto il sistema di notifiche",
         "pt-br": "Sistema de notificações adicionado"
       },
       "body": {
-        "en": "Click to open the release/download page.",
+        "de":"Klicken Sie hier, um die Release-/Downloadseite zu öffnen.",
+        "en":"Click to open the release/download page.",
+        "es":"Haga clic para abrir la página de lanzamiento/descarga.",
+        "fr":"Cliquez pour ouvrir la page de téléchargement/de publication.",
+        "it":"Fare clic per aprire la pagina di rilascio/download.",
         "pt-br": "Clique para abrir a página de release/download."
       },
       "link": "https://github.com/UltimateRemaster/Final-Fantasy-08/releases",
@@ -128,11 +160,19 @@
       "type": "update",
       "created_at": "2025-12-18T17:15:51Z",
       "title": {
-        "en": "Notifications system added",
+        "de":"Benachrichtigungssystem hinzugefügt",
+        "en": "Notifications system added", 
+        "es":"Se agregó un sistema de notificaciones",
+        "fr":"Système de notifications ajouté",
+        "it":"Aggiunto il sistema di notifiche",
         "pt-br": "Sistema de notificações adicionado"
       },
       "body": {
-        "en": "Click to open the release/download page.",
+        "de":"Klicken Sie hier, um die Release-/Downloadseite zu öffnen.",
+        "en":"Click to open the release/download page.",
+        "es":"Haga clic para abrir la página de lanzamiento/descarga.",
+        "fr":"Cliquez pour ouvrir la page de téléchargement/de publication.",
+        "it":"Fare clic per aprire la pagina di rilascio/download.",
         "pt-br": "Clique para abrir a página de release/download."
       },
       "link": "https://github.com/UltimateRemaster/Final-Fantasy-08/releases",
@@ -145,11 +185,19 @@
       "type": "update",
       "created_at": "2025-12-18T17:15:51Z",
       "title": {
-        "en": "Notifications system added",
+        "de":"Benachrichtigungssystem hinzugefügt",
+        "en": "Notifications system added", 
+        "es":"Se agregó un sistema de notificaciones",
+        "fr":"Système de notifications ajouté",
+        "it":"Aggiunto il sistema di notifiche",
         "pt-br": "Sistema de notificações adicionado"
       },
       "body": {
-        "en": "Click to open the release/download page.",
+        "de":"Klicken Sie hier, um die Release-/Downloadseite zu öffnen.",
+        "en":"Click to open the release/download page.",
+        "es":"Haga clic para abrir la página de lanzamiento/descarga.",
+        "fr":"Cliquez pour ouvrir la page de téléchargement/de publication.",
+        "it":"Fare clic per aprire la pagina di rilascio/download.",
         "pt-br": "Clique para abrir a página de release/download."
       },
       "link": "https://github.com/UltimateRemaster/Final-Fantasy-08/releases",
