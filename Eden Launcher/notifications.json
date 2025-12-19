@@ -7,11 +7,19 @@
       "type": "promo",
       "created_at": "2025-12-11T17:15:51Z",
       "title": {
-        "en": "Try the 4K Video Pack",
+        "de":"Probieren Sie das 4K-Videopaket aus",
+        "en":"Try the 4K Video Pack",
+        "es":"Prueba el paquete de vídeo 4K",
+        "fr":"Essayez le pack vidéo 4K",
+        "it":"Prova il pacchetto video 4K",
         "pt-br": "Conheça o 4K Video Pack"
       },
       "body": {
+        "de":"Beispiel für eine angepinnte Ankündigung.",
         "en": "Pinned announcement example.",
+        "es":"Ejemplo de anuncio fijado.",
+        "fr":"Exemple d'annonce épinglée.",
+        "it":"Esempio di annuncio appuntato.",
         "pt-br": "Exemplo de anúncio fixado."
       },
       "link": "https://www.nexusmods.com/",
@@ -24,11 +32,19 @@
       "type": "promo",
       "created_at": "2025-12-11T17:15:51Z",
       "title": {
-        "en": "Try the 4K Video Pack",
+        "de":"Probieren Sie das 4K-Videopaket aus",
+        "en":"Try the 4K Video Pack",
+        "es":"Prueba el paquete de vídeo 4K",
+        "fr":"Essayez le pack vidéo 4K",
+        "it":"Prova il pacchetto video 4K",
         "pt-br": "Conheça o 4K Video Pack"
       },
       "body": {
+        "de":"Beispiel für eine angepinnte Ankündigung.",
         "en": "Pinned announcement example.",
+        "es":"Ejemplo de anuncio fijado.",
+        "fr":"Exemple d'annonce épinglée.",
+        "it":"Esempio di annuncio appuntato.",
         "pt-br": "Exemplo de anúncio fixado."
       },
       "link": "https://www.nexusmods.com/",
@@ -36,6 +52,9 @@
       "pinned": true,
       "expires_at": null
     },
+
+
+
         {
       "id": "eden-112-notifications-system1",
       "type": "update",
