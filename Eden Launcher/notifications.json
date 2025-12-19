@@ -20,7 +20,7 @@
       "expires_at": null
     },
         {
-      "id": "promo-4k-video-pack",
+      "id": "promo-2k-video-pack",
       "type": "promo",
       "created_at": "2025-12-11T17:15:51Z",
       "title": {
@@ -37,7 +37,7 @@
       "expires_at": null
     },
         {
-      "id": "eden-112-notifications-system",
+      "id": "eden-112-notifications-system1",
       "type": "update",
       "created_at": "2025-12-18T17:15:51Z",
       "title": {
@@ -54,7 +54,7 @@
       "expires_at": null
     },
         {
-      "id": "eden-112-notifications-system",
+      "id": "eden-112-notifications-system2",
       "type": "update",
       "created_at": "2025-12-18T17:15:51Z",
       "title": {
@@ -71,7 +71,7 @@
       "expires_at": null
     },
         {
-      "id": "eden-112-notifications-system",
+      "id": "eden-112-notifications-system3",
       "type": "update",
       "created_at": "2025-12-18T17:15:51Z",
       "title": {
@@ -88,7 +88,7 @@
       "expires_at": null
     },
         {
-      "id": "eden-112-notifications-system",
+      "id": "eden-112-notifications-system4",
       "type": "update",
       "created_at": "2025-12-18T17:15:51Z",
       "title": {
@@ -105,7 +105,7 @@
       "expires_at": null
     },
         {
-      "id": "eden-112-notifications-system",
+      "id": "eden-112-notifications-system5",
       "type": "update",
       "created_at": "2025-12-18T17:15:51Z",
       "title": {
@@ -122,7 +122,7 @@
       "expires_at": null
     },
     {
-      "id": "eden-112-notifications-system",
+      "id": "eden-112-notifications-system6",
       "type": "update",
       "created_at": "2025-12-18T17:15:51Z",
       "title": {
