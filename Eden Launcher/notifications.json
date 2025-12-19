@@ -23,7 +23,7 @@
         "pt-br": "Exemplo de anúncio fixado."
       },
       "link": "https://www.nexusmods.com/",
-      "image": null,
+      "image": "https://github.com/UltimateRemaster/Final-Fantasy-08/blob/main/Eden%20Launcher/Notifications%20Icons/package.png?raw=true",
       "pinned": true,
       "expires_at": null
     },
@@ -48,7 +48,7 @@
         "pt-br": "Exemplo de anúncio fixado."
       },
       "link": "https://www.nexusmods.com/",
-      "image": null,
+      "image": "https://github.com/UltimateRemaster/Final-Fantasy-08/blob/main/Eden%20Launcher/Notifications%20Icons/package.png?raw=true",
       "pinned": true,
       "expires_at": null
     },
@@ -76,13 +76,13 @@
         "pt-br": "Clique para abrir a página de release/download."
       },
       "link": "https://github.com/UltimateRemaster/Final-Fantasy-08/releases",
-      "image": null,
+      "image": "https://github.com/UltimateRemaster/Final-Fantasy-08/blob/main/Eden%20Launcher/Notifications%20Icons/update.png?raw=true",
       "pinned": false,
       "expires_at": null
     },
         {
       "id": "eden-112-notifications-system2",
-      "type": "update",
+      "type": "messege",
       "created_at": "2025-12-18T17:15:51Z",
       "title": {
         "de":"Benachrichtigungssystem hinzugefügt",
@@ -101,13 +101,13 @@
         "pt-br": "Clique para abrir a página de release/download."
       },
       "link": "https://github.com/UltimateRemaster/Final-Fantasy-08/releases",
-      "image": null,
+      "image": "https://github.com/UltimateRemaster/Final-Fantasy-08/blob/main/Eden%20Launcher/Notifications%20Icons/messege.png?raw=true",
       "pinned": false,
       "expires_at": null
     },
         {
       "id": "eden-112-notifications-system3",
-      "type": "update",
+      "type": "messege",
       "created_at": "2025-12-18T17:15:51Z",
       "title": {
         "de":"Benachrichtigungssystem hinzugefügt",
@@ -126,13 +126,13 @@
         "pt-br": "Clique para abrir a página de release/download."
       },
       "link": "https://github.com/UltimateRemaster/Final-Fantasy-08/releases",
-      "image": null,
+      "image": "https://github.com/UltimateRemaster/Final-Fantasy-08/blob/main/Eden%20Launcher/Notifications%20Icons/messege.png?raw=true",
       "pinned": false,
       "expires_at": null
     },
         {
       "id": "eden-112-notifications-system4",
-      "type": "update",
+      "type": "messege",
       "created_at": "2025-12-18T17:15:51Z",
       "title": {
         "de":"Benachrichtigungssystem hinzugefügt",
@@ -151,13 +151,13 @@
         "pt-br": "Clique para abrir a página de release/download."
       },
       "link": "https://github.com/UltimateRemaster/Final-Fantasy-08/releases",
-      "image": null,
+      "image": "https://github.com/UltimateRemaster/Final-Fantasy-08/blob/main/Eden%20Launcher/Notifications%20Icons/messege.png?raw=true",
       "pinned": false,
       "expires_at": null
     },
         {
       "id": "eden-112-notifications-system5",
-      "type": "update",
+      "type": "messege",
       "created_at": "2025-12-18T17:15:51Z",
       "title": {
         "de":"Benachrichtigungssystem hinzugefügt",
@@ -176,13 +176,13 @@
         "pt-br": "Clique para abrir a página de release/download."
       },
       "link": "https://github.com/UltimateRemaster/Final-Fantasy-08/releases",
-      "image": null,
+      "image": "https://github.com/UltimateRemaster/Final-Fantasy-08/blob/main/Eden%20Launcher/Notifications%20Icons/messege.png?raw=true",
       "pinned": false,
       "expires_at": null
     },
     {
       "id": "eden-112-notifications-system6",
-      "type": "update",
+      "type": "messege",
       "created_at": "2025-12-18T17:15:51Z",
       "title": {
         "de":"Benachrichtigungssystem hinzugefügt",
@@ -201,7 +201,7 @@
         "pt-br": "Clique para abrir a página de release/download."
       },
       "link": "https://github.com/UltimateRemaster/Final-Fantasy-08/releases",
-      "image": null,
+      "image": "https://github.com/UltimateRemaster/Final-Fantasy-08/blob/main/Eden%20Launcher/Notifications%20Icons/messege.png?raw=true",
       "pinned": false,
       "expires_at": null
     }
