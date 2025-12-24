@@ -34,7 +34,20 @@
           "uk": "Ваша пожертва допомагає підтримувати проєкт і створювати нові моди.",
           "pl": "Twoja darowizna pomaga utrzymać projekt przy życiu i tworzyć nowe mody."
         },
-      "link": "https://www.nexusmods.com/",
+      "link": {
+        "de": "https://www.paypal.com/donate/?hosted_button_id=MKVWYCEB43B96",
+        "en": "https://www.paypal.com/donate/?hosted_button_id=A3XE5NP22E8LC",
+        "es": "https://www.paypal.com/donate/?hosted_button_id=MXH2U36WCM35Y",
+        "fr": "https://www.paypal.com/donate/?hosted_button_id=SZFE36UHKV6CC",
+        "it": "https://www.paypal.com/donate/?hosted_button_id=X9C6KLPENB28E",
+        "pt-br": "https://www.paypal.com/donate/?hosted_button_id=K9THJEJHG5LXU",
+        "ja": "https://www.paypal.com/donate/?hosted_button_id=ZKTEAVA3FAX5N",
+        "zh": "https://www.paypal.com/donate/?hosted_button_id=TSJ8ZMKT8NAUU",
+        "ko": "https://www.paypal.com/donate/?hosted_button_id=7KJYKEBEHETJU",
+        "ru": "https://www.paypal.com/donate/?hosted_button_id=TTP5E8VJZHR3G",
+        "uk": "https://www.paypal.com/donate/?hosted_button_id=PN2SMYW3AD84C",
+        "pl": "https://www.paypal.com/donate/?hosted_button_id=S7ZRD2BHBYJN2"
+      },
       "image": "https://github.com/UltimateRemaster/Final-Fantasy-08/blob/main/Eden%20Launcher/Notifications%20Icons/support.png?raw=true",
       "pinned": true,
       "expires_at": null
