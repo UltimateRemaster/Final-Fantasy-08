@@ -1,4 +1,4 @@
-#;模组名称;类别;作者;链接;下载;大小;描述;安装说明;备注;
+#;模组名称;类别;作者;Mod;Download;大小;描述;安装说明;备注;
 01;SeeDRemastered-UI v1.0 (“.zzz” Files);UI;McIndus;https://forums.qhimm.com/index.php?topic=19238.0;http://bit.ly/SeeDRemastered-UI_v1-0;0,05GB;更新游戏界面;下载并解压。在解压后的文件夹“SeeDRemastered-UI_v1-0”中会有两个“.zzz”文件。在“ZZZ-Tools”选项卡中，点击“Select ZZZ File”按钮并选择：经典界面（带自定义菜单图标）用“seed-ui_rem_v1-0.zzz”，高科技界面用“seed-ui-hitech_rem_v1-0.zzz”。然后点击“Add To Manager”按钮确认。;如果同时安装两个版本（Classic 和 High-Tech），只有最后安装的那个会生效。之后你可以通过交换安装顺序并重新安装来切换生效版本。;
 02;SeeDRemasteredFont-Tech v1.a (All Languages!);UI;McIndus;https://forums.qhimm.com/index.php?topic=19238.0;https://bit.ly/SeeDFont-Tech_v1-a;0,01GB;更新游戏字体;下载并解压，然后将“SeeDRemasteredFont-Tech_v1-a”文件夹添加到 Mod Manager。添加完想要的所有模组后，点击“Install Mods”按钮，等待安装完成，然后在“Launcher”选项卡中点击“Play”按钮启动游戏。;;
 03;Battlefield Pack (Ultima Remastered) v2.0.1;图形;McIndus;https://forums.qhimm.com/index.php?topic=19944.0;https://bit.ly/BattlefieldPack_Rem_v2-0-1;2,47GB;更新战斗场景贴图;下载并解压，然后将“BattlefieldPack ULTIMA (Remastered) v2.0.1”文件夹添加到 Mod Manager。添加完想要的所有模组后，点击“Install Mods”按钮，等待安装完成，然后在“Launcher”选项卡中点击“Play”按钮启动游戏。;;
