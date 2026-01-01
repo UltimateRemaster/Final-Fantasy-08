@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2025-12-18T17:15:51Z",
+  "generated_at": "2025-12-30T02:24:04Z",
   "items": [
     {
       "id": "paypal-donation",
@@ -12,13 +12,16 @@
         "es": "Apoya Ultimate Remaster",
         "fr": "Soutenez Ultimate Remaster",
         "it": "Supporta Ultimate Remaster",
-        "pt-br": "Apoie o Ultimate Remaster",
         "ja": "Ultimate Remasterを支援",
-        "zh": "支持 Ultimate Remaster",
         "ko": "Ultimate Remaster 지원",
+        "pl": "Wesprzyj Ultimate Remaster",
+        "pt-br": "Apoie o Ultimate Remaster",
         "ru": "Поддержите Ultimate Remaster",
+        "th": "สนับสนุน Ultimate Remaster",
+        "tr": "Ultimate Remaster'ı Destekleyin",
         "uk": "Підтримайте Ultimate Remaster",
-        "pl": "Wesprzyj Ultimate Remaster"
+        "zh": "支持 Ultimate Remaster",
+        "zh-tw": "支持 Ultimate Remaster"
       },
       "body": {
         "de": "Deine Spende hilft, das Projekt am Leben zu halten und neue Mods zu erstellen.",
@@ -26,13 +29,16 @@
         "es": "Tu donación ayuda a mantener el proyecto vivo y a crear nuevos mods.",
         "fr": "Votre don aide à maintenir le projet en vie et à créer de nouveaux mods.",
         "it": "La tua donazione aiuta a mantenere vivo il progetto e a creare nuovi mod.",
-        "pt-br": "Sua doação ajuda a manter o projeto vivo e a criar novos mods.",
         "ja": "寄付はプロジェクトの継続と新しいMODの制作に役立ちます。",
-        "zh": "您的捐助有助于让项目持续运行，并制作新的 Mod。",
         "ko": "기부는 프로젝트를 계속 운영하고 새로운 모드를 만드는 데 도움이 됩니다.",
+        "pl": "Twoja darowizna pomaga utrzymać projekt przy życiu i tworzyć nowe mody.",
+        "pt-br": "Sua doação ajuda a manter o projeto vivo e a criar novos mods.",
         "ru": "Ваше пожертвование помогает проекту жить и создавать новые моды.",
+        "th": "การบริจาคของคุณช่วยให้โครงการดำเนินต่อไปและช่วยสร้างม็อดใหม่ ๆ",
+        "tr": "Bağışınız projenin devam etmesine ve yeni modların oluşturulmasına yardımcı olur.",
         "uk": "Ваша пожертва допомагає підтримувати проєкт і створювати нові моди.",
-        "pl": "Twoja darowizna pomaga utrzymać projekt przy życiu i tworzyć nowe mody."
+        "zh": "您的捐助有助于让项目持续运行，并制作新的 Mod。",
+        "zh-tw": "您的捐款有助於讓專案持續運作，並協助製作新的模組。"
       },
       "link": {
         "de": "https://www.paypal.com/donate/?hosted_button_id=MKVWYCEB43B96",
@@ -40,13 +46,16 @@
         "es": "https://www.paypal.com/donate/?hosted_button_id=MXH2U36WCM35Y",
         "fr": "https://www.paypal.com/donate/?hosted_button_id=SZFE36UHKV6CC",
         "it": "https://www.paypal.com/donate/?hosted_button_id=X9C6KLPENB28E",
-        "pt-br": "https://www.paypal.com/donate/?hosted_button_id=K9THJEJHG5LXU",
         "ja": "https://www.paypal.com/donate/?hosted_button_id=ZKTEAVA3FAX5N",
-        "zh": "https://www.paypal.com/donate/?hosted_button_id=TSJ8ZMKT8NAUU",
         "ko": "https://www.paypal.com/donate/?hosted_button_id=7KJYKEBEHETJU",
+        "pl": "https://www.paypal.com/donate/?hosted_button_id=S7ZRD2BHBYJN2",
+        "pt-br": "https://www.paypal.com/donate/?hosted_button_id=K9THJEJHG5LXU",
         "ru": "https://www.paypal.com/donate/?hosted_button_id=TTP5E8VJZHR3G",
+        "th": "https://www.paypal.com/donate/?hosted_button_id=A3XE5NP22E8LC",
+        "tr": "https://www.paypal.com/donate/?hosted_button_id=A3XE5NP22E8LC",
         "uk": "https://www.paypal.com/donate/?hosted_button_id=PN2SMYW3AD84C",
-        "pl": "https://www.paypal.com/donate/?hosted_button_id=S7ZRD2BHBYJN2"
+        "zh": "https://www.paypal.com/donate/?hosted_button_id=TSJ8ZMKT8NAUU",
+        "zh-tw": "https://www.paypal.com/donate/?hosted_button_id=A3XE5NP22E8LC"
       },
       "image": "https://github.com/UltimateRemaster/Final-Fantasy-08/blob/main/Eden%20Launcher/Notifications%20Icons/support.png?raw=true",
       "pinned": true,
@@ -62,13 +71,16 @@
         "es": "Bienvenido(a) a Eden Launcher",
         "fr": "Bienvenue sur Eden Launcher",
         "it": "Benvenuto/a su Eden Launcher",
-        "pt-br": "Seja bem vindo(a) ao Eden Launcher",
         "ja": "Eden Launcherへようこそ",
-        "zh": "欢迎使用 Eden Launcher",
         "ko": "Eden Launcher에 오신 것을 환영합니다",
+        "pl": "Witamy w Eden Launcher",
+        "pt-br": "Seja bem vindo(a) ao Eden Launcher",
         "ru": "Добро пожаловать в Eden Launcher",
+        "th": "ยินดีต้อนรับสู่ Eden Launcher",
+        "tr": "Eden Launcher'a Hoş Geldiniz",
         "uk": "Ласкаво просимо до Eden Launcher",
-        "pl": "Witamy w Eden Launcher"
+        "zh": "欢迎使用 Eden Launcher",
+        "zh-tw": "歡迎使用 Eden Launcher"
       },
       "body": {
         "de": "In diesem Bereich wirst du über Neuigkeiten, Updates, neue Mods und vieles mehr informiert.",
@@ -76,16 +88,22 @@
         "es": "En esta sección se te informará sobre noticias, actualizaciones, nuevos mods y mucho más.",
         "fr": "Dans cette section, vous serez informé(e) des actualités, des mises à jour, des nouveaux mods et bien plus encore.",
         "it": "In questa sezione riceverai notizie, aggiornamenti, nuovi mod e molto altro.",
-        "pt-br": "Nesta seção você será comunicado(a) sobre notícias, atualizações, novos mods e muito mais.",
         "ja": "このセクションでは、ニュース、アップデート、新しいMODなどの情報をお知らせします。",
-        "zh": "在此部分，您将收到有关新闻、更新、新 Mod 等更多内容的通知。",
         "ko": "이 섹션에서는 뉴스, 업데이트, 새로운 모드 등 다양한 정보를 안내해 드립니다.",
+        "pl": "W tej sekcji będziesz otrzymywać informacje o nowościach, aktualizacjach, nowych modach i nie tylko.",
+        "pt-br": "Nesta seção você será comunicado(a) sobre notícias, atualizações, novos mods e muito mais.",
         "ru": "В этом разделе вы будете получать новости, обновления, новые моды и многое другое.",
+        "th": "ในส่วนนี้ คุณจะได้รับการแจ้งเตือนเกี่ยวกับข่าวสาร อัปเดต ม็อดใหม่ ๆ และอีกมากมาย",
+        "tr": "Bu bölümde haberler, güncellemeler, yeni modlar ve çok daha fazlası hakkında bilgilendirileceksiniz.",
         "uk": "У цьому розділі ви отримуватимете новини, оновлення, нові моди та багато іншого.",
-        "pl": "W tej sekcji będziesz otrzymywać informacje o nowościach, aktualizacjach, nowych modach i nie tylko."
+        "zh": "在此部分，您将收到有关新闻、更新、新 Mod 等更多内容的通知。",
+        "zh-tw": "在此區域，您將收到有關新聞、更新、新模組等更多內容的通知。"
       },
       "link": {
-        "en": "https://www.nexusmods.com/profile/UltimateRemaster/mods"
+        "en": "https://www.nexusmods.com/profile/UltimateRemaster/mods",
+        "th": "https://www.nexusmods.com/profile/UltimateRemaster/mods",
+        "tr": "https://www.nexusmods.com/profile/UltimateRemaster/mods",
+        "zh-tw": "https://www.nexusmods.com/profile/UltimateRemaster/mods"
       },
       "image": "https://github.com/UltimateRemaster/Final-Fantasy-08/blob/main/Eden%20Launcher/Notifications%20Icons/messege.png?raw=true",
       "pinned": false,
