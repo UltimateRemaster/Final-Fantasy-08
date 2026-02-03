@@ -5,7 +5,7 @@
   {
     "id": "EndorseEdenLauncher",
     "type": "like",
-    "created_at": "2026-02-03T02:00:00Z",
+    "created_at": "2026-02-03T05:00:00Z",
     "title": {
       "de": "Eden Launcher endorsen",
       "en": "Endorse Eden Launcher",
@@ -24,21 +24,21 @@
       "zh-tw": "給 Eden Launcher 一個 Endorse"
     },
     "body": {
-      "de": "Mehr als nur Anerkennung: Dein Endorsement zeigt, dass die FF8-Community lebendig, aktiv und stark ist. Klicke, um es zu powern.",
-      "en": "More than recognition, your endorsement helps show the FF8 community is alive, active, and strong. Click to power it up.",
-      "es": "Más que un reconocimiento, tu endorsement ayuda a mostrar que la comunidad de FF8 está viva, activa y fuerte. Haz clic para fortalecer.",
-      "fr": "Plus qu’une reconnaissance, votre endorsement aide à montrer que la communauté FF8 est vivante, active et forte. Cliquez pour renforcer.",
-      "it": "Più di un riconoscimento: il tuo endorsement aiuta a mostrare che la community di FF8 è viva, attiva e forte. Clicca per rafforzare.",
-      "ja": "ただの称賛以上に、あなたのエンドースはFF8コミュニティが今も活発で強いことを示します。クリックしてパワーアップ！",
-      "ko": "단순한 인정 그 이상—여러분의 엔도스는 FF8 커뮤니티가 살아 있고 활발하며 강하다는 것을 보여줍니다. 클릭해 파워업!",
-      "pl": "To coś więcej niż uznanie — Twój endorsement pokazuje, że społeczność FF8 jest żywa, aktywna i silna. Kliknij, aby ją wzmocnić.",
-      "pt-br": "Mais do que reconhecimento, seu endorsement ajuda a mostrar que a comunidade de FF8 está viva, ativa e forte. Clique para fortalecer.",
-      "ru": "Это больше, чем признание: ваш endorsement показывает, что сообщество FF8 живое, активное и сильное. Нажмите, чтобы усилить.",
-      "th": "มากกว่าคำชื่นชม การ endorse ของคุณช่วยบอกว่าคอมมูนิตี้ FF8 ยังมีชีวิต ช่วยกัน และแข็งแกร่ง คลิกเพื่อเพิ่มพลัง!",
-      "tr": "Bu sadece bir takdir değil; endorse’un FF8 topluluğunun canlı, aktif ve güçlü olduğunu gösterir. Güçlendirmek için tıkla.",
-      "uk": "Це більше, ніж визнання: ваш ендорс показує, що спільнота FF8 жива, активна й сильна. Натисніть, щоб зміцнити.",
-      "zh": "这不仅是认可，你的 Endorse 能展示 FF8 社区依然鲜活、活跃且强大。点击来强化它！",
-      "zh-tw": "這不只是認可，你的 Endorse 能展現 FF8 社群依然活躍且強大。點擊來強化它！"
+      "de": "Mehr als nur Anerkennung: Dein Endorsement hilft zu zeigen, dass die FF8-Community lebendig, aktiv und stark ist. Klicke, um es auf Nexus zu powern.",
+      "en": "More than recognition, your endorsement helps show the FF8 community is alive, active, and strong. Click to power it up on Nexus.",
+      "es": "Más que un simple reconocimiento, tu endorsement ayuda a demostrar que la comunidad de FF8 está viva, activa y fuerte. Haz clic para darle un empujón en Nexus.",
+      "fr": "Plus qu’une simple reconnaissance, votre endorsement montre que la communauté FF8 est bien vivante, active et solide. Cliquez pour lui donner un boost sur Nexus.",
+      "it": "Più che un semplice riconoscimento, il tuo endorsement dimostra che la community di FF8 è viva, attiva e forte. Clicca per dargli una spinta su Nexus.",
+      "ja": "ただの称賛以上に、あなたのエンドースはFF8コミュニティが今も活発で強いことを示します。Nexusでパワーアップするにはクリック！",
+      "ko": "단순한 인정 그 이상—여러분의 엔도스는 FF8 커뮤니티가 살아 있고 활발하며 강하다는 것을 보여줍니다. Nexus에서 파워업하려면 클릭하세요.",
+      "pl": "To coś więcej niż uznanie — Twój endorsement pomaga pokazać, że społeczność FF8 jest żywa, aktywna i silna. Kliknij, aby ją wzmocnić na Nexusie.",
+      "pt-br": "Mais do que reconhecimento, seu endorsement ajuda a mostrar que a comunidade de FF8 está viva, ativa e forte. Clique para fortalecer na Nexus.",
+      "ru": "Это больше, чем признание: ваш endorsement помогает показать, что сообщество FF8 живое, активное и сильное. Нажмите, чтобы прокачать на Nexus.",
+      "th": "มากกว่าคำชื่นชม การ endorse ของคุณช่วยบอกว่าคอมมูนิตี้ FF8 ยังมีชีวิต ช่วยกัน และแข็งแกร่ง คลิกเพื่อ power up บน Nexus!",
+      "tr": "Bu sadece bir takdir değil; endorse’un FF8 topluluğunun canlı, aktif ve güçlü olduğunu göstermeye yardımcı olur. Nexus’ta power up için tıkla.",
+      "uk": "Це більше, ніж визнання: ваш ендорс допомагає показати, що спільнота FF8 жива, активна й сильна. Натисніть, щоб прокачати на Nexus.",
+      "zh": "这不仅是认可，你的 Endorse 能展示 FF8 社区依然鲜活、活跃且强大。点击前往 Nexus 来强化它！",
+      "zh-tw": "這不只是認可，你的 Endorse 能展現 FF8 社群依然活躍且強大。點擊前往 Nexus 來強化它！"
     },
     "link": {
       "en": "https://www.nexusmods.com/finalfantasy8remastered/mods/69?tab=description"
@@ -50,7 +50,7 @@
   {
     "id": "Update1.1.5",
     "type": "update",
-    "created_at": "2026-02-03T01:00:00Z",
+    "created_at": "2026-02-03T04:00:00Z",
     "title": {
       "de": "Eden v1.1.5-Update",
       "en": "Eden v1.1.5 Update",
