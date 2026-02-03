@@ -2,6 +2,141 @@
   "version": 1,
   "generated_at": "2025-12-30T02:24:04Z",
   "items": [
+  {
+    "id": "EndorseEdenLauncher",
+    "type": "like",
+    "created_at": "2026-02-03T02:00:00Z",
+    "title": {
+      "de": "Eden Launcher endorsen",
+      "en": "Endorse Eden Launcher",
+      "es": "Endorsa Eden Launcher",
+      "fr": "Endorsez Eden Launcher",
+      "it": "Endorsa Eden Launcher",
+      "ja": "Eden Launcher をエンドース",
+      "ko": "Eden Launcher 엔도스하기",
+      "pl": "Zostaw endorsement",
+      "pt-br": "Endorse Eden Launcher",
+      "ru": "Эндорсните Eden Launcher",
+      "th": "Endorse Eden Launcher",
+      "tr": "Eden Launcher’ı Endorse Et",
+      "uk": "Ендорсніть Eden Launcher",
+      "zh": "给 Eden Launcher 点个 Endorse",
+      "zh-tw": "給 Eden Launcher 一個 Endorse"
+    },
+    "body": {
+      "de": "Mehr als nur Anerkennung: Dein Endorsement zeigt, dass die FF8-Community lebendig, aktiv und stark ist. Klicke, um es zu powern.",
+      "en": "More than recognition, your endorsement helps show the FF8 community is alive, active, and strong. Click to power it up.",
+      "es": "Más que un reconocimiento, tu endorsement ayuda a mostrar que la comunidad de FF8 está viva, activa y fuerte. Haz clic para fortalecer.",
+      "fr": "Plus qu’une reconnaissance, votre endorsement aide à montrer que la communauté FF8 est vivante, active et forte. Cliquez pour renforcer.",
+      "it": "Più di un riconoscimento: il tuo endorsement aiuta a mostrare che la community di FF8 è viva, attiva e forte. Clicca per rafforzare.",
+      "ja": "ただの称賛以上に、あなたのエンドースはFF8コミュニティが今も活発で強いことを示します。クリックしてパワーアップ！",
+      "ko": "단순한 인정 그 이상—여러분의 엔도스는 FF8 커뮤니티가 살아 있고 활발하며 강하다는 것을 보여줍니다. 클릭해 파워업!",
+      "pl": "To coś więcej niż uznanie — Twój endorsement pokazuje, że społeczność FF8 jest żywa, aktywna i silna. Kliknij, aby ją wzmocnić.",
+      "pt-br": "Mais do que reconhecimento, seu endorsement ajuda a mostrar que a comunidade de FF8 está viva, ativa e forte. Clique para fortalecer.",
+      "ru": "Это больше, чем признание: ваш endorsement показывает, что сообщество FF8 живое, активное и сильное. Нажмите, чтобы усилить.",
+      "th": "มากกว่าคำชื่นชม การ endorse ของคุณช่วยบอกว่าคอมมูนิตี้ FF8 ยังมีชีวิต ช่วยกัน และแข็งแกร่ง คลิกเพื่อเพิ่มพลัง!",
+      "tr": "Bu sadece bir takdir değil; endorse’un FF8 topluluğunun canlı, aktif ve güçlü olduğunu gösterir. Güçlendirmek için tıkla.",
+      "uk": "Це більше, ніж визнання: ваш ендорс показує, що спільнота FF8 жива, активна й сильна. Натисніть, щоб зміцнити.",
+      "zh": "这不仅是认可，你的 Endorse 能展示 FF8 社区依然鲜活、活跃且强大。点击来强化它！",
+      "zh-tw": "這不只是認可，你的 Endorse 能展現 FF8 社群依然活躍且強大。點擊來強化它！"
+    },
+    "link": {
+      "en": "https://www.nexusmods.com/finalfantasy8remastered/mods/69?tab=description"
+    },
+    "image": "https://github.com/UltimateRemaster/Final-Fantasy-08/blob/main/Eden%20Launcher/Notifications%20Icons/messege.png?raw=true",
+    "pinned": false,
+    "expires_at": null
+  },
+  {
+    "id": "Update1.1.5",
+    "type": "update",
+    "created_at": "2026-02-03T01:00:00Z",
+    "title": {
+      "de": "Eden v1.1.5-Update",
+      "en": "Eden v1.1.5 Update",
+      "es": "Actualización Eden v1.1.5",
+      "fr": "Mise à jour Eden v1.1.5",
+      "it": "Aggiornamento Eden v1.1.5",
+      "ja": "Eden v1.1.5 アップデート",
+      "ko": "Eden v1.1.5 업데이트",
+      "pl": "Aktualizacja Eden v1.1.5",
+      "pt-br": "Atualização Eden v1.1.5",
+      "ru": "Обновление Eden v1.1.5",
+      "th": "อัปเดต Eden v1.1.5",
+      "tr": "Eden v1.1.5 Güncellemesi",
+      "uk": "Оновлення Eden v1.1.5",
+      "zh": "Eden v1.1.5 更新",
+      "zh-tw": "Eden v1.1.5 更新"
+    },
+    "body": {
+      "de": "Unterstützt jetzt die neue DRM-freie GOG-Version und weitere Verbesserungen. Klicke hier, um mehr zu erfahren.",
+      "en": "Adds support for the new DRM-free GOG version and other improvements. Click here to learn more.",
+      "es": "Añade soporte para la nueva versión DRM-free de GOG y otras mejoras. Haz clic aquí para saber más.",
+      "fr": "Ajoute la prise en charge de la nouvelle version GOG sans DRM et d’autres améliorations. Cliquez ici pour en savoir plus.",
+      "it": "Aggiunge supporto alla nuova versione GOG senza DRM e altri miglioramenti. Clicca qui per saperne di più.",
+      "ja": "新しいDRMフリーのGOG版に対応し、他にも改善を追加しました。詳しくはこちら。",
+      "ko": "새 DRM-free GOG 버전 지원과 기타 개선 사항이 추가되었습니다. 자세히 보려면 여기를 클릭하세요.",
+      "pl": "Dodaje obsługę nowej wersji GOG bez DRM oraz inne usprawnienia. Kliknij tutaj, aby dowiedzieć się więcej.",
+      "pt-br": "Adiciona suporte à nova versão DRM-Free da GOG e outras melhorias. Clique aqui para saber mais.",
+      "ru": "Добавлена поддержка новой DRM-free версии GOG и другие улучшения. Нажмите здесь, чтобы узнать больше.",
+      "th": "รองรับเวอร์ชัน GOG แบบ DRM-free ใหม่และมีการปรับปรุงอื่น ๆ คลิกที่นี่เพื่อดูรายละเอียดเพิ่มเติม",
+      "tr": "Yeni DRM-free GOG sürümü desteği ve diğer iyileştirmeler eklendi. Daha fazlası için buraya tıkla.",
+      "uk": "Додано підтримку нової DRM-free версії GOG та інші покращення. Натисніть тут, щоб дізнатися більше.",
+      "zh": "新增对全新 GOG DRM-Free 版本的支持，并带来其他改进。点击此处了解更多。",
+      "zh-tw": "新增支援全新 GOG DRM-Free 版本，並帶來其他改進。點擊此處了解更多。"
+    },
+    "link": {
+      "en": "https://www.nexusmods.com/finalfantasy8remastered/mods/69?tab=files"
+    },
+    "image": "https://github.com/UltimateRemaster/Final-Fantasy-08/blob/main/Eden%20Launcher/Notifications%20Icons/messege.png?raw=true",
+    "pinned": false,
+    "expires_at": null
+  },
+    {
+      "id": "welcome",
+      "type": "message",
+      "created_at": "2025-12-26T17:15:51Z",
+      "title": {
+        "de": "Willkommen bei Eden Launcher",
+        "en": "Welcome to Eden Launcher",
+        "es": "Bienvenido(a) a Eden Launcher",
+        "fr": "Bienvenue sur Eden Launcher",
+        "it": "Benvenuto/a su Eden Launcher",
+        "ja": "Eden Launcherへようこそ",
+        "ko": "Eden Launcher에 오신 것을 환영합니다",
+        "pl": "Witamy w Eden Launcher",
+        "pt-br": "Seja bem vindo(a) ao Eden Launcher",
+        "ru": "Добро пожаловать в Eden Launcher",
+        "th": "ยินดีต้อนรับสู่ Eden Launcher",
+        "tr": "Eden Launcher'a Hoş Geldiniz",
+        "uk": "Ласкаво просимо до Eden Launcher",
+        "zh": "欢迎使用 Eden Launcher",
+        "zh-tw": "歡迎使用 Eden Launcher"
+      },
+      "body": {
+        "de": "In diesem Bereich wirst du über Neuigkeiten, Updates, neue Mods und vieles mehr informiert.",
+        "en": "In this section you'll be notified about news, updates, new mods, and much more.",
+        "es": "En esta sección se te informará sobre noticias, actualizaciones, nuevos mods y mucho más.",
+        "fr": "Dans cette section, vous serez informé(e) des actualités, des mises à jour, des nouveaux mods et bien plus encore.",
+        "it": "In questa sezione riceverai notizie, aggiornamenti, nuovi mod e molto altro.",
+        "ja": "このセクションでは、ニュース、アップデート、新しいMODなどの情報をお知らせします。",
+        "ko": "이 섹션에서는 뉴스, 업데이트, 새로운 모드 등 다양한 정보를 안내해 드립니다.",
+        "pl": "W tej sekcji będziesz otrzymywać informacje o nowościach, aktualizacjach, nowych modach i nie tylko.",
+        "pt-br": "Nesta seção você será comunicado(a) sobre notícias, atualizações, novos mods e muito mais.",
+        "ru": "В этом разделе вы будете получать новости, обновления, новые моды и многое другое.",
+        "th": "ในส่วนนี้ คุณจะได้รับการแจ้งเตือนเกี่ยวกับข่าวสาร อัปเดต ม็อดใหม่ ๆ และอีกมากมาย",
+        "tr": "Bu bölümde haberler, güncellemeler, yeni modlar ve çok daha fazlası hakkında bilgilendirileceksiniz.",
+        "uk": "У цьому розділі ви отримуватимете новини, оновлення, нові моди та багато іншого.",
+        "zh": "在此部分，您将收到有关新闻、更新、新 Mod 等更多内容的通知。",
+        "zh-tw": "在此區域，您將收到有關新聞、更新、新模組等更多內容的通知。"
+      },
+      "link": {
+        "en": "https://www.nexusmods.com/profile/UltimateRemaster/mods"
+      },
+      "image": "https://github.com/UltimateRemaster/Final-Fantasy-08/blob/main/Eden%20Launcher/Notifications%20Icons/messege.png?raw=true",
+      "pinned": false,
+      "expires_at": null
+    },
     {
       "id": "paypal-donation",
       "type": "promo",
@@ -59,54 +194,6 @@
       },
       "image": "https://github.com/UltimateRemaster/Final-Fantasy-08/blob/main/Eden%20Launcher/Notifications%20Icons/support.png?raw=true",
       "pinned": true,
-      "expires_at": null
-    },
-    {
-      "id": "welcome",
-      "type": "message",
-      "created_at": "2025-12-26T17:15:51Z",
-      "title": {
-        "de": "Willkommen bei Eden Launcher",
-        "en": "Welcome to Eden Launcher",
-        "es": "Bienvenido(a) a Eden Launcher",
-        "fr": "Bienvenue sur Eden Launcher",
-        "it": "Benvenuto/a su Eden Launcher",
-        "ja": "Eden Launcherへようこそ",
-        "ko": "Eden Launcher에 오신 것을 환영합니다",
-        "pl": "Witamy w Eden Launcher",
-        "pt-br": "Seja bem vindo(a) ao Eden Launcher",
-        "ru": "Добро пожаловать в Eden Launcher",
-        "th": "ยินดีต้อนรับสู่ Eden Launcher",
-        "tr": "Eden Launcher'a Hoş Geldiniz",
-        "uk": "Ласкаво просимо до Eden Launcher",
-        "zh": "欢迎使用 Eden Launcher",
-        "zh-tw": "歡迎使用 Eden Launcher"
-      },
-      "body": {
-        "de": "In diesem Bereich wirst du über Neuigkeiten, Updates, neue Mods und vieles mehr informiert.",
-        "en": "In this section you'll be notified about news, updates, new mods, and much more.",
-        "es": "En esta sección se te informará sobre noticias, actualizaciones, nuevos mods y mucho más.",
-        "fr": "Dans cette section, vous serez informé(e) des actualités, des mises à jour, des nouveaux mods et bien plus encore.",
-        "it": "In questa sezione riceverai notizie, aggiornamenti, nuovi mod e molto altro.",
-        "ja": "このセクションでは、ニュース、アップデート、新しいMODなどの情報をお知らせします。",
-        "ko": "이 섹션에서는 뉴스, 업데이트, 새로운 모드 등 다양한 정보를 안내해 드립니다.",
-        "pl": "W tej sekcji będziesz otrzymywać informacje o nowościach, aktualizacjach, nowych modach i nie tylko.",
-        "pt-br": "Nesta seção você será comunicado(a) sobre notícias, atualizações, novos mods e muito mais.",
-        "ru": "В этом разделе вы будете получать новости, обновления, новые моды и многое другое.",
-        "th": "ในส่วนนี้ คุณจะได้รับการแจ้งเตือนเกี่ยวกับข่าวสาร อัปเดต ม็อดใหม่ ๆ และอีกมากมาย",
-        "tr": "Bu bölümde haberler, güncellemeler, yeni modlar ve çok daha fazlası hakkında bilgilendirileceksiniz.",
-        "uk": "У цьому розділі ви отримуватимете новини, оновлення, нові моди та багато іншого.",
-        "zh": "在此部分，您将收到有关新闻、更新、新 Mod 等更多内容的通知。",
-        "zh-tw": "在此區域，您將收到有關新聞、更新、新模組等更多內容的通知。"
-      },
-      "link": {
-        "en": "https://www.nexusmods.com/profile/UltimateRemaster/mods",
-        "th": "https://www.nexusmods.com/profile/UltimateRemaster/mods",
-        "tr": "https://www.nexusmods.com/profile/UltimateRemaster/mods",
-        "zh-tw": "https://www.nexusmods.com/profile/UltimateRemaster/mods"
-      },
-      "image": "https://github.com/UltimateRemaster/Final-Fantasy-08/blob/main/Eden%20Launcher/Notifications%20Icons/messege.png?raw=true",
-      "pinned": false,
       "expires_at": null
     }
   ]
