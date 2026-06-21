@@ -3,6 +3,96 @@
   "generated_at": "2025-12-30T02:24:04Z",
   "items": [
   {
+  "id": "EdenLauncherTop5",
+  "type": "like",
+  "created_at": "2026-06-21T14:01:00Z",
+  "title": {
+    "de": "Eden Launcher erreicht die Top 5",
+    "en": "Eden Launcher Reaches the Top 5",
+    "es": "Eden Launcher alcanza el Top 5",
+    "fr": "Eden Launcher atteint le Top 5",
+    "it": "Eden Launcher raggiunge la Top 5",
+    "ja": "Eden Launcher がトップ5入り",
+    "ko": "Eden Launcher Top 5 달성",
+    "pl": "Eden Launcher trafia do Top 5",
+    "pt-br": "Eden Launcher alcança o Top 5",
+    "ru": "Eden Launcher вошёл в Топ-5",
+    "th": "Eden Launcher ติด Top 5",
+    "tr": "Eden Launcher Top 5’e ulaştı",
+    "uk": "Eden Launcher увійшов до Топ-5",
+    "zh": "Eden Launcher 进入前五",
+    "zh-tw": "Eden Launcher 進入前五"
+  },
+  "body": {
+    "de": "Zusätzlich zum Start der neuen Website markiert der heutige Tag auch einen wichtigen Meilenstein: Eden Launcher hat nur fünf Monate nach seiner Veröffentlichung die Top 5 der meist-endorsten Mods des Spiels erreicht. Vielen Dank euch allen für die großartige Unterstützung!",
+    "en": "In addition to the launch of the new website, today also marks a major milestone: Eden Launcher has reached the Top 5 most-endorsed mods for the game, just five months after its release. Thank you all for your incredible support!",
+    "es": "Además del lanzamiento del nuevo sitio web, hoy también marca un gran hito: Eden Launcher ha alcanzado el Top 5 de los mods más endorsados del juego, apenas cinco meses después de su lanzamiento. ¡Gracias a todos por su increíble apoyo!",
+    "fr": "En plus du lancement du nouveau site, aujourd’hui marque également une étape importante : Eden Launcher a atteint le Top 5 des mods les plus endorsés du jeu, seulement cinq mois après sa sortie. Merci à tous pour votre incroyable soutien !",
+    "it": "Oltre al lancio del nuovo sito, oggi segna anche un traguardo importante: Eden Launcher ha raggiunto la Top 5 dei mod più endorsati del gioco, appena cinque mesi dopo il rilascio. Grazie a tutti per il vostro incredibile supporto!",
+    "ja": "新しいウェブサイトの公開に加えて、今日はもう一つ大きな節目となりました。Eden Launcher がリリースからわずか5か月で、このゲームの最もエンドースされたMODトップ5に入りました。皆さんの素晴らしいサポートに心から感謝します！",
+    "ko": "새 웹사이트 공개와 함께, 오늘은 또 하나의 중요한 이정표가 되었습니다. Eden Launcher가 출시된 지 불과 5개월 만에 이 게임에서 가장 많이 엔도스된 모드 Top 5에 올랐습니다. 여러분의 놀라운 지원에 진심으로 감사드립니다!",
+    "pl": "Oprócz premiery nowej strony, dzisiejszy dzień przynosi też ważny kamień milowy: Eden Launcher trafił do Top 5 najczęściej endorsowanych modów do tej gry zaledwie pięć miesięcy po premierze. Dziękuję wszystkim za niesamowite wsparcie!",
+    "pt-br": "Além da inauguração do novo site, o dia de hoje também marca uma grande conquista: Eden Launcher alcançou o Top 5 dos mods mais endorsados do jogo em apenas cinco meses de lançamento. Obrigado a todos pelo incrível apoio!",
+    "ru": "Помимо запуска нового сайта, сегодняшний день также отмечает важную веху: Eden Launcher вошёл в Топ-5 самых endorsеd-модов для игры всего через пять месяцев после релиза. Спасибо всем за невероятную поддержку!",
+    "th": "นอกจากการเปิดตัวเว็บไซต์ใหม่แล้ว วันนี้ยังเป็นอีกหนึ่งก้าวสำคัญ: Eden Launcher ติด Top 5 ม็อดที่ได้รับการ endorse มากที่สุดของเกม ภายในเวลาเพียงห้าเดือนหลังจากเปิดตัว ขอบคุณทุกคนสำหรับการสนับสนุนที่ยอดเยี่ยม!",
+    "tr": "Yeni sitenin açılışına ek olarak, bugün önemli bir dönüm noktasını da işaret ediyor: Eden Launcher, çıkışından yalnızca beş ay sonra oyunun en çok endorse edilen modları arasında Top 5’e ulaştı. Muhteşem desteğiniz için hepinize teşekkürler!",
+    "uk": "Окрім запуску нового сайту, сьогодні також відзначає важливу подію: Eden Launcher увійшов до Топ-5 найбільш endorsеd-модів гри лише за п’ять місяців після релізу. Дякую всім за неймовірну підтримку!",
+    "zh": "除了新网站上线之外，今天也标志着一个重要里程碑：Eden Launcher 在发布仅五个月后，就进入了该游戏最受 Endorse 的模组前五名。感谢大家一直以来的鼎力支持！",
+    "zh-tw": "除了新網站上線之外，今天也代表另一個重要里程碑：Eden Launcher 在發布僅五個月後，就進入了該遊戲最受 Endorse 的模組前五名。感謝大家一直以來的鼎力支持！"
+  },
+  "link": {
+    "en": "https://ultimateremaster.com/"
+  },
+  "image": "https://github.com/UltimateRemaster/Final-Fantasy-08/blob/main/Eden%20Launcher/Notifications%20Icons/award.png?raw=true",
+  "pinned": false,
+  "expires_at": null
+  }
+  {
+  "id": "NewWebsite",
+  "type": "like",
+  "created_at": "2026-06-21T14:00:00Z",
+  "title": {
+    "de": "Neue Website ist online",
+    "en": "New Website Now Live",
+    "es": "Nuevo sitio web ya disponible",
+    "fr": "Nouveau site en ligne",
+    "it": "Nuovo sito ora online",
+    "ja": "新しいウェブサイトが公開されました",
+    "ko": "새 웹사이트 공개",
+    "pl": "Nowa strona jest już dostępna",
+    "pt-br": "Novo site no ar",
+    "ru": "Новый сайт уже запущен",
+    "th": "เว็บไซต์ใหม่เปิดให้ใช้งานแล้ว",
+    "tr": "Yeni site yayında",
+    "uk": "Новий сайт уже запущено",
+    "zh": "新网站现已上线",
+    "zh-tw": "新網站現已上線"
+  },
+  "body": {
+    "de": "Nach Monaten harter Arbeit ist die Website des Ultimate Remaster-Projekts endlich online. Sie wurde erstellt, um die Mods, die ich entwickle und/oder verwende, zusammenzubringen und so zu präsentieren, wie ich es mir wirklich gewünscht habe, und bringt außerdem Inhalte, Neuigkeiten, Updates und exklusive Funktionen für die ganze Community.",
+    "en": "After months of hard work, the Ultimate Remaster project website is finally live. It was built to bring together and present the mods I develop and/or use the way I truly wanted, while also bringing content, news, updates, and exclusive features to the whole community.",
+    "es": "Después de meses de mucho trabajo, el sitio web del proyecto Ultimate Remaster finalmente está disponible. Fue creado para reunir y presentar los mods que desarrollo y/o utilizo de la manera en que realmente quería, además de traer contenido, noticias, actualizaciones y funciones exclusivas para toda la comunidad.",
+    "fr": "Après des mois de travail acharné, le site du projet Ultimate Remaster est enfin en ligne. Il a été conçu pour rassembler et présenter les mods que je développe et/ou utilise de la manière dont je le souhaitais vraiment, tout en apportant du contenu, des actualités, des mises à jour et des fonctionnalités exclusives à toute la communauté.",
+    "it": "Dopo mesi di duro lavoro, il sito del progetto Ultimate Remaster è finalmente online. È stato creato per riunire e presentare i mod che sviluppo e/o utilizzo nel modo in cui ho sempre desiderato, portando anche contenuti, notizie, aggiornamenti e funzionalità esclusive per tutta la community.",
+    "ja": "数か月にわたる努力の末、Ultimate Remaster プロジェクトのウェブサイトがついに公開されました。このサイトは、私が開発している、または使用しているMODを一つにまとめ、私が本当に望んでいた形で紹介するために作られたものであり、コミュニティ全体に向けたコンテンツ、ニュース、アップデート、限定機能も提供していきます。",
+    "ko": "몇 달간의 노력 끝에 Ultimate Remaster 프로젝트 웹사이트가 드디어 공개되었습니다. 이 사이트는 제가 개발하거나 사용하는 모드를 한곳에 모아 제가 진정으로 원했던 방식으로 소개하기 위해 만들어졌으며, 커뮤니티 전체를 위한 콘텐츠, 뉴스, 업데이트, 독점 기능도 함께 제공합니다.",
+    "pl": "Po miesiącach ciężkiej pracy strona projektu Ultimate Remaster jest wreszcie dostępna. Powstała po to, aby zebrać i zaprezentować mody, które tworzę i/lub których używam, dokładnie tak, jak naprawdę chciałem, a także dostarczać treści, wiadomości, aktualizacje i ekskluzywne funkcje dla całej społeczności.",
+    "pt-br": "Finalmente, depois de meses de trabalho duro, o site do projeto Ultimate Remaster está no ar para reunir e apresentar os mods que desenvolvo e/ou utilizo da maneira como eu realmente gostaria, além de trazer conteúdos, notícias, atualizações e recursos exclusivos para toda a comunidade.",
+    "ru": "После месяцев упорной работы сайт проекта Ultimate Remaster наконец запущен. Он был создан, чтобы собрать и представить моды, которые я разрабатываю и/или использую, именно так, как я действительно хотел, а также предложить контент, новости, обновления и эксклюзивные возможности для всего сообщества.",
+    "th": "หลังจากทำงานอย่างหนักมาหลายเดือน เว็บไซต์ของโปรเจกต์ Ultimate Remaster ก็เปิดให้ใช้งานแล้วในที่สุด เว็บไซต์นี้ถูกสร้างขึ้นเพื่อรวบรวมและนำเสนอม็อดที่ผมพัฒนาและ/หรือใช้งานในแบบที่ผมต้องการอย่างแท้จริง พร้อมทั้งนำเสนอคอนเทนต์ ข่าวสาร อัปเดต และฟีเจอร์พิเศษสำหรับทั้งคอมมูนิตี้.",
+    "tr": "Aylar süren yoğun çalışmanın ardından Ultimate Remaster projesinin web sitesi sonunda yayında. Geliştirdiğim ve/veya kullandığım modları bir araya getirip gerçekten istediğim şekilde sunmak için oluşturuldu; ayrıca tüm topluluk için içerikler, haberler, güncellemeler ve özel özellikler de sunuyor.",
+    "uk": "Після місяців наполегливої роботи сайт проєкту Ultimate Remaster нарешті запущено. Його створено, щоб зібрати й представити моди, які я розробляю та/або використовую, саме так, як я справді хотів, а також додати контент, новини, оновлення й ексклюзивні функції для всієї спільноти.",
+    "zh": "经过数月的努力，Ultimate Remaster 项目网站终于上线了。它旨在集中并展示我开发和/或使用的模组，并以我真正希望的方式呈现它们，同时也为整个社区带来内容、新闻、更新和专属功能。",
+    "zh-tw": "經過數月的努力，Ultimate Remaster 專案網站終於上線了。它旨在集中並呈現我開發和/或使用的模組，並以我真正希望的方式展示它們，同時也為整個社群帶來內容、新聞、更新與專屬功能。"
+  },
+  "link": {
+    "en": "https://ultimateremaster.com/"
+  },
+  "image": "https://github.com/UltimateRemaster/Final-Fantasy-08/blob/main/Eden%20Launcher/Notifications%20Icons/launch.png?raw=true",
+  "pinned": true,
+  "expires_at": null
+  }
+  {
     "id": "EndorseEdenLauncher",
     "type": "like",
     "created_at": "2026-02-03T05:00:00Z",
@@ -193,7 +283,7 @@
         "zh-tw": "https://www.paypal.com/donate/?hosted_button_id=A3XE5NP22E8LC"
       },
       "image": "https://github.com/UltimateRemaster/Final-Fantasy-08/blob/main/Eden%20Launcher/Notifications%20Icons/support.png?raw=true",
-      "pinned": true,
+      "pinned": false,
       "expires_at": null
     }
   ]
