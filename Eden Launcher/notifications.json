@@ -46,7 +46,7 @@
   "image": "https://github.com/UltimateRemaster/Final-Fantasy-08/blob/main/Eden%20Launcher/Notifications%20Icons/award.png?raw=true",
   "pinned": false,
   "expires_at": null
-  }
+  },
   {
   "id": "NewWebsite",
   "type": "like",
@@ -91,7 +91,7 @@
   "image": "https://github.com/UltimateRemaster/Final-Fantasy-08/blob/main/Eden%20Launcher/Notifications%20Icons/launch.png?raw=true",
   "pinned": true,
   "expires_at": null
-  }
+  },
   {
     "id": "EndorseEdenLauncher",
     "type": "like",
