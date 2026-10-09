@@ -1,9 +1,7 @@
 {
-  "version": 1,
-  "generated_at": "2026-02-01",
   "links": {
-    "website": "https://ultimateremaster.com/",
-    "youtube": "https://www.youtube.com/@UltimateRemaster",
-    "tutorial": "https://ultimateremaster.com/how-to-install-mods-in-ff8-remastered-with-eden-launcher/"
+    "link01": "https://ultimateremaster.com/",
+    "link02": "https://www.youtube.com/@UltimateRemaster",
+    "link03": "https://discord.gg/Ask9fB2gY"
   }
 }
